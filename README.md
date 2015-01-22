@@ -6,6 +6,9 @@ For more information about using reupholster, see
 
 http://reupholster.iriscouch.com/reupholster/_design/app/index.html
 
+More on this sample app at:
+http://reupholster.iriscouch.com/reupholster/_design/app/index.html
+
 
 
 What To Change 
